@@ -1,1 +1,9 @@
 test delete
+test delete1
+test delete2
+test delete3
+test delete4
+test delete5
+test delete6
+test delete7
+test delete8
